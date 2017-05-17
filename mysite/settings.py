@@ -25,7 +25,7 @@ SECRET_KEY = '*o+($$s8_*w20kl=*-asdc*is8hf!0#&7)(v#8e(-y_ys7hs-x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mnpica.pythonanywhere.com',]
 
 
 # Application definition
